@@ -1,11 +1,3 @@
-# Web Design and User Experience INFO-6150
-
-## The Troopers:
-•	Ivan Fernando
-•	Nishanth M
-•	Srikanth Reddy Gubballi
-•	Sujay Joshi
-
 ## Online Job Portal (JobStorm):
 A Portal which helps job-seekers to view job listing form multiple companies with their details and apply for their dream job.
 Makes the life of recruiter simple, they just have to post the job on their company website. JobStorm fetches the jobs posted form multiple companies and posts it on our website.
